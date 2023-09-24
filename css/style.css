@@ -9,11 +9,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    background-image: url(../img/Captura\ de\ tela\ 2023-09-24\ 102802.png);
-    background-repeat: no-repeat;
-    background-position-x: center;
-   
+    height: 100vh;   
 }
 
 .form{
@@ -36,10 +32,12 @@
     outline: none;
     border: 1px solid #6614D9;
     margin-bottom: 15px;
+    
 }
 
 ::placeholder{
     text-align: center;
+    
 }
 div a{
     margin: 15px;
