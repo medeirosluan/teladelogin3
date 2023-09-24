@@ -10,10 +10,10 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-
     background-image: url(../img/Captura\ de\ tela\ 2023-09-24\ 102802.png);
     background-repeat: no-repeat;
     background-position-x: center;
+   
 }
 
 .form{
